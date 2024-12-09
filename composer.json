@@ -1,0 +1,16 @@
+{
+    "name": "casa/project-tradeup",
+    "description": "Projeto da tradeup para consulta da api de cep",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luizamaro11",
+            "email": "luiz.amaro@gmail.com"
+        }
+    ],
+    "require": {}
+}
